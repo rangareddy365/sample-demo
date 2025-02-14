@@ -1,4 +1,4 @@
 # sample-demo
 This is my first Git Repository
 <br>
-Author - Ranga
+Author - Ranga Reddy
